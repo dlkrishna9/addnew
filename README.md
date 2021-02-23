@@ -16,13 +16,13 @@ Normal text
 * hi
 **Ordered Data**    
 1.Version Control       
-       a. Types      
+       a.Types      
 2.Git & Github     
 3.Git intro     
 4.Git commands       
-       a. git init     
-       b. git add     
-       c. git status         
+       a.git init     
+       b.git add     
+       c.git status         
        
       
   **Unordered Data**
